@@ -29,3 +29,13 @@ name = "dashbrard/joint/unverse"
 
 #split method
 print(name.split('/')[2])
+
+
+
+
+
+
+
+
+#ends with method
+print(name.endswith("i"))
